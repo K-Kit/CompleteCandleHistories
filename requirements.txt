@@ -1,0 +1,9 @@
+pandas
+psutil
+SQLAlchemy
+graphene_sqlalchemy
+graphene
+psycopg2
+ta-lib
+numpy
+git+git://github.com/firepol/ccxt-websockets#egg=ccxt&subdirectory=python
